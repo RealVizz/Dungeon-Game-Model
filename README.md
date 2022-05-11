@@ -1,4 +1,4 @@
-# Project 3 - Dungeon Model
+Dungeon Model
 
 It is a program that simulates a typical scenario in an Cave and Treasure Game.
 
